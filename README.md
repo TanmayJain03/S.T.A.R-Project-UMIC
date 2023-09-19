@@ -7,7 +7,7 @@ Check our final work through this presentation - [STAR Team1 Presentation](https
 
 Team Members -
 
-1. Ojas Jain, Department of Mechanical Engineering, IIT Bombay
+1. Ojas Jain, Department of Mechanical Engineering, IIT Bombay -- [MaximusStupidus](https://github.com/MaximusStupidus)
 2. Areeb Asgar, Department of Mechanical Engineering, IIT Bombay --- [Areeb-07](https://github.com/Areeb-07)
-3. Tanmay Nitul Jain, Department of Mechanical Engineering, IIT Bombay
+3. Tanmay Nitul Jain, Department of Mechanical Engineering, IIT Bombay  -- [TanmayJain03](https://github.com/TanmayJain03)
 4. Ayush Ramteke, Department of Computer Science Engineering, IIT Bombay --- [CodeineX](https://github.com/CodeineX)
